@@ -1,0 +1,71 @@
+======================================================================
+ SORTING ALGORITHMS DEMONSTRATION
+======================================================================
+
+Test Case 1:
+  Algorithm: bubble
+  Order: Ascending
+  Input Size: 7
+  Input: [64, 34, 25, 12, 22, 11, 90]
+  Output: [11, 12, 22, 25, 34, 64, 90]
+  Status: ✓ SUCCESS
+
+Test Case 2:
+  Algorithm: selection
+  Order: Descending
+  Input Size: 5
+  Input: [5, 4, 3, 2, 1]
+  Output: [5, 4, 3, 2, 1]
+  Status: ✓ SUCCESS
+
+Test Case 3:
+  Algorithm: quick
+  Order: Ascending
+  Input Size: 8
+  Input: [-5, 10, -3, 0, 8, -1, 15, -20]
+  Output: [-20, -5, -3, -1, 0, 8, 10, 15]
+  Status: ✓ SUCCESS
+
+Test Case 4:
+  Algorithm: merge
+  Order: Descending
+  Input Size: 11
+  Input: [3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5]
+  Output: [9, 6, 5, 5, 5, 4, 3, 3, 2, 1, 1]
+  Status: ✓ SUCCESS
+
+Test Case 5:
+  Algorithm: bubble
+  Order: Ascending
+  Input Size: 1
+  Input: [42]
+  Output: [42]
+  Status: ✓ SUCCESS
+
+Test Case 6:
+  Algorithm: quick
+  Order: Ascending
+  Input Size: 4
+  Input: [100, 100, 100, 100]
+  Output: [100, 100, 100, 100]
+  Status: ✓ SUCCESS
+
+Test Case 7:
+  Algorithm: merge
+  Order: Ascending
+  Input Size: 5
+  Input: [2147483647, -2147483648, 0, 1000, -1000]
+  Output: [-2147483648, -1000, 0, 1000, 2147483647]
+  Status: ✓ SUCCESS
+
+Test Case 8:
+  Algorithm: selection
+  Order: Ascending
+  Input Size: 10
+  Input: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  Output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  Status: ✓ SUCCESS
+
+======================================================================
+ DEMONSTRATION COMPLETED
+======================================================================

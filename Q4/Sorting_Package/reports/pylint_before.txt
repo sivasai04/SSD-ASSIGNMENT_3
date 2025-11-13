@@ -1,0 +1,63 @@
+************* Module src.bubble_sort
+src/bubble_sort.py:7:0: C0303: Trailing whitespace (trailing-whitespace)
+src/bubble_sort.py:21:0: C0303: Trailing whitespace (trailing-whitespace)
+src/bubble_sort.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+src/bubble_sort.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+src/bubble_sort.py:38:0: C0303: Trailing whitespace (trailing-whitespace)
+src/bubble_sort.py:41:0: C0304: Final newline missing (missing-final-newline)
+src/bubble_sort.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+************* Module src
+src/__init__.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+************* Module src.merge_sort
+src/merge_sort.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:26:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:27:59: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:43:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:44:57: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:58:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:61:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:78:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:83:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:88:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:91:0: C0304: Final newline missing (missing-final-newline)
+src/merge_sort.py:44:4: R0913: Too many arguments (6/5) (too-many-arguments)
+************* Module src.quick_sort
+src/quick_sort.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+src/quick_sort.py:26:0: C0303: Trailing whitespace (trailing-whitespace)
+src/quick_sort.py:27:58: C0303: Trailing whitespace (trailing-whitespace)
+src/quick_sort.py:42:0: C0303: Trailing whitespace (trailing-whitespace)
+src/quick_sort.py:43:50: C0303: Trailing whitespace (trailing-whitespace)
+src/quick_sort.py:59:0: C0303: Trailing whitespace (trailing-whitespace)
+src/quick_sort.py:69:0: C0303: Trailing whitespace (trailing-whitespace)
+src/quick_sort.py:72:0: C0303: Trailing whitespace (trailing-whitespace)
+src/quick_sort.py:75:0: C0304: Final newline missing (missing-final-newline)
+************* Module src.selection_sort
+src/selection_sort.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+src/selection_sort.py:25:0: C0303: Trailing whitespace (trailing-whitespace)
+src/selection_sort.py:28:0: C0303: Trailing whitespace (trailing-whitespace)
+src/selection_sort.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+src/selection_sort.py:38:0: C0303: Trailing whitespace (trailing-whitespace)
+src/selection_sort.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
+src/selection_sort.py:43:0: C0304: Final newline missing (missing-final-newline)
+************* Module src.sorting_base
+src/sorting_base.py:7:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorting_base.py:21:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorting_base.py:25:0: C0304: Final newline missing (missing-final-newline)
+src/sorting_base.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src/sorting_base.py:20:8: W0107: Unnecessary pass statement (unnecessary-pass)
+src/sorting_base.py:25:8: W0107: Unnecessary pass statement (unnecessary-pass)
+************* Module src.sorting_factory
+src/sorting_factory.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorting_factory.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorting_factory.py:24:62: C0303: Trailing whitespace (trailing-whitespace)
+src/sorting_factory.py:46:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorting_factory.py:50:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorting_factory.py:54:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorting_factory.py:59:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorting_factory.py:65:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorting_factory.py:68:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorting_factory.py:71:0: C0304: Final newline missing (missing-final-newline)
+
+-----------------------------------
+Your code has been rated at 6.46/10
+

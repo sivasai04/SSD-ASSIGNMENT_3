@@ -1,0 +1,30 @@
+============================================================
+SORTING ALGORITHMS TEST SUITE
+============================================================
+Testing Ascending Order:
+  Bubble Sort          12/12 ✓ PASS
+  Selection Sort       12/12 ✓ PASS
+  Quick Sort           12/12 ✓ PASS
+  Merge Sort           12/12 ✓ PASS
+
+Testing Descending Order:
+  Bubble Sort          12/12 ✓ PASS
+  Selection Sort       12/12 ✓ PASS
+  Quick Sort           12/12 ✓ PASS
+  Merge Sort           12/12 ✓ PASS
+
+Testing Factory Pattern:
+  bubble               12/12 ✓ PASS
+  selection            12/12 ✓ PASS
+  quick                12/12 ✓ PASS
+  merge                12/12 ✓ PASS
+
+Testing Error Handling:
+  Invalid algorithm: ✓ PASS
+  Non-integer input: ✓ PASS
+  Non-list input: ✓ PASS
+
+============================================================
+TOTAL: 147 PASSED, 0 FAILED
+RESULT: ✓ ALL TESTS PASSED
+============================================================

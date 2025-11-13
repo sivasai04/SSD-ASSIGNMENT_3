@@ -1,0 +1,22 @@
+************* Module src.bubble_sort
+src/bubble_sort.py:38:0: C0303: Trailing whitespace (trailing-whitespace)
+src/bubble_sort.py:41:0: C0304: Final newline missing (missing-final-newline)
+************* Module src.merge_sort
+src/merge_sort.py:52:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:55:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:72:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:77:0: C0303: Trailing whitespace (trailing-whitespace)
+src/merge_sort.py:84:0: C0304: Final newline missing (missing-final-newline)
+src/merge_sort.py:40:4: R0913: Too many arguments (6/5) (too-many-arguments)
+************* Module src.quick_sort
+src/quick_sort.py:54:0: C0303: Trailing whitespace (trailing-whitespace)
+src/quick_sort.py:64:0: C0303: Trailing whitespace (trailing-whitespace)
+src/quick_sort.py:69:0: C0304: Final newline missing (missing-final-newline)
+************* Module src.selection_sort
+src/selection_sort.py:38:0: C0304: Final newline missing (missing-final-newline)
+************* Module src.sorting_factory
+src/sorting_factory.py:63:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.10/10 (previous run: 6.46/10, +2.64)
+
